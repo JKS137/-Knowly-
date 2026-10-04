@@ -1,0 +1,6 @@
+{
+  "name": "Knowly",
+  "description": "Personalized interactive friend quizzes with instant sharing, leaderboard stats, and score analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
